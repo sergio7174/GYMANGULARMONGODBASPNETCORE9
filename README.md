@@ -59,7 +59,7 @@ $ dotnet run
 ![Static Badge](https://img.shields.io/badge/Express-navy?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/bootstrap-teal?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/rxjs%20-aqua?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/multer%20-aqua?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/STATIC%20-aqua?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Graphql-gray?style=for-the-badge&logo=Graphql&logoColor=black&logoSize=auto&label=GraphQl%20&labelColor=lightbrown&color=black)
 ![Static Badge](https://img.shields.io/badge/ASPNETCORE--gray?style=for-the-badge&logo=ASP&logoColor=black&logoSize=auto&label=ASPNETCORE%20&labelColor=lightbrown&color=black)
 
