@@ -1,7 +1,7 @@
 <h1 align ="center" > GYM SERGIO FITNESS ANGULAR/ASPNETCORE9 APLICATION </h1>
 <h4  align ="center"> 
 Fullstack open source application, dynamic GYM CONTROL website( Using Angular and ASPNETCORE9)</h4>
- <h4  align ="center"> Made with NEXTJS, MongoDB, Express, Nodejs(20.11.1), Nestjs  </h4>
+ <h4  align ="center"> Made with Angular 18, MongoDB,Nodejs(20.11.1), ASP.NET.CORE 9  </h4>
 <br>
 <br>
 
