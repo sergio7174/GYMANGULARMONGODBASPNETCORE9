@@ -51,8 +51,7 @@ $ dotnet run
 
 ##  🔌 Technologies used ✔️:
 ![Static Badge](https://img.shields.io/badge/typeScript--blue?style=for-the-badge&logo=typescript&logoColor=black&logoSize=auto&label=TypeScript&labelColor=Black)
-![Static Badge](https://img.shields.io/badge/NextJs--lightblue?style=for-the-badge&logo=Nextjs&logoColor=darkred&logoSize=auto&label=NextJs&labelColor=lightgreen&color=lightgreen)
-![Static Badge](https://img.shields.io/badge/Redux-Toolkit--gray?style=for-the-badge&logo=redux&logoColor=black&logoSize=auto&label=Redux%20Toolkit&labelColor=lightbrown&color=black)
+![Static Badge](https://img.shields.io/badge/Angular--lightblue?style=for-the-badge&logo=Angular&logoColor=darkred&logoSize=auto&label=Angular&labelColor=lightgreen&color=lightgreen)
 ![Static Badge](https://img.shields.io/badge/cors%20-yellow?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/dotenv-black?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/mongoDB%20-aqua?style=for-the-badge)
@@ -62,7 +61,7 @@ $ dotnet run
 ![Static Badge](https://img.shields.io/badge/rxjs%20-aqua?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/multer%20-aqua?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Graphql-gray?style=for-the-badge&logo=Graphql&logoColor=black&logoSize=auto&label=GraphQl%20&labelColor=lightbrown&color=black)
-![Static Badge](https://img.shields.io/badge/ASPNETCORE--gray?style=for-the-badge&logo=ASP&logoColor=black&logoSize=auto&label=Nestjs%20&labelColor=lightbrown&color=black)
+![Static Badge](https://img.shields.io/badge/ASPNETCORE--gray?style=for-the-badge&logo=ASP&logoColor=black&logoSize=auto&label=ASPNETCORE%20&labelColor=lightbrown&color=black)
 
 
 ##  Screenshots:
